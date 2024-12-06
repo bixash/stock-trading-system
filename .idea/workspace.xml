@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="599d9174-c52e-4184-ad4f-1942950c2561" name="Changes" comment="" />
+    <list default="true" id="599d9174-c52e-4184-ad4f-1942950c2561" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exchange/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exchange/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,27 +45,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BrokerApp.executor": "Run",
-    "Application.ExchangeApp.executor": "Run",
-    "Application.TradingApplication.executor": "Run",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Docker.broker/docker-compose.yaml.db: Compose Deployment.executor": "Run",
-    "Docker.broker/docker-compose.yaml.rabbitmq: Compose Deployment.executor": "Run",
-    "Docker.broker/docker-compose.yaml: Compose Deployment.executor": "Run",
-    "Docker.exchange/docker-compose.yaml.db: Compose Deployment.executor": "Run",
-    "Docker.exchange/docker-compose.yaml.rabbitmq: Compose Deployment.executor": "Run",
-    "Docker.exchange/docker-compose.yaml: Compose Deployment.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/tradingapp",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BrokerApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExchangeApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TradingApplication.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Docker.broker/docker-compose.yaml.db: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.broker/docker-compose.yaml.rabbitmq: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.broker/docker-compose.yaml: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.exchange/docker-compose.yaml.db: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.exchange/docker-compose.yaml.rabbitmq: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.exchange/docker-compose.yaml: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/tradingapp&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.stockapp.broker.dto" />
@@ -182,6 +185,15 @@
       <option name="presentableId" value="Default" />
       <updated>1728655540504</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1733404923280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733404923280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,10 +201,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
