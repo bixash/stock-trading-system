@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="599d9174-c52e-4184-ad4f-1942950c2561" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exchange/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exchange/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,8 +163,8 @@
       <list>
         <item itemvalue="Application.BrokerApp" />
         <item itemvalue="Application.ExchangeApp" />
-        <item itemvalue="Docker.broker/docker-compose.yaml: Compose Deployment" />
         <item itemvalue="Docker.exchange/docker-compose.yaml: Compose Deployment" />
+        <item itemvalue="Docker.broker/docker-compose.yaml: Compose Deployment" />
         <item itemvalue="Docker.broker/docker-compose.yaml.rabbitmq: Compose Deployment" />
       </list>
     </recent_temporary>
