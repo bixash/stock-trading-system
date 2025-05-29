@@ -1,4 +1,4 @@
-# Stock Trading System implementing AOT
+# Stock Trading System with Automated Order Trigger
 
 ## Introduction
 
